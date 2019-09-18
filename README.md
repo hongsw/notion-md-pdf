@@ -1,9 +1,11 @@
-# notion-md-pdf
+# notion-md-pdf-kr
 
 Thanks to notion-md-pdf
 
 ## Todo
 Korean or some UTF9 support
+
+## Info
 
 Converts pages exported from [Notion](https://notion.so) as Markdown into PDF files using the command line due to browser rendering issues.
 
