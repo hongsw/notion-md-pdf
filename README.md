@@ -3,7 +3,7 @@
 Thanks to notion-md-pdf
 
 ## Todo
-Korean or some UTF8 support
+Korean or some UTF-8 support
 
 ## Info
 
